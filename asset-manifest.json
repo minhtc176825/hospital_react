@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/bluegun/static/css/main.64e66807.chunk.css",
+    "main.js": "/bluegun/static/js/main.6e671677.chunk.js",
+    "main.js.map": "/bluegun/static/js/main.6e671677.chunk.js.map",
+    "runtime-main.js": "/bluegun/static/js/runtime-main.5b349f6a.js",
+    "runtime-main.js.map": "/bluegun/static/js/runtime-main.5b349f6a.js.map",
+    "static/js/2.400dc438.chunk.js": "/bluegun/static/js/2.400dc438.chunk.js",
+    "static/js/2.400dc438.chunk.js.map": "/bluegun/static/js/2.400dc438.chunk.js.map",
+    "index.html": "/bluegun/index.html",
+    "precache-manifest.58079a9b34752f7aca42d9502e4153a3.js": "/bluegun/precache-manifest.58079a9b34752f7aca42d9502e4153a3.js",
+    "service-worker.js": "/bluegun/service-worker.js",
+    "static/css/main.64e66807.chunk.css.map": "/bluegun/static/css/main.64e66807.chunk.css.map",
+    "static/js/2.400dc438.chunk.js.LICENSE.txt": "/bluegun/static/js/2.400dc438.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5b349f6a.js",
+    "static/js/2.400dc438.chunk.js",
+    "static/css/main.64e66807.chunk.css",
+    "static/js/main.6e671677.chunk.js"
+  ]
+}
